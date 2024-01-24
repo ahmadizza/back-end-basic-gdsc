@@ -22,7 +22,7 @@ app.use(reqTime)
 
 app.get('/', authentication, (req, res) => {
   res.json({
-    "messege":"this is home path"
+    "messege":"this is home path."
   })
 })
 
