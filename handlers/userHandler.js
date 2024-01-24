@@ -1,7 +1,7 @@
 const {Router} = require('express')
 const user = [
    {
-    'name': 'ucup'
+    'name': 'ucup',
     'age': 20
    } 
 ]
